@@ -1,8 +1,8 @@
-# Citi Quant Internship Overview
+# Quant Project Overview
 
 ## Introduction
 
-This repository serves as a documentation and tracking hub for my internship experience at Citi in the Quantitative Analysis department. Throughout this internship, my primary focus has been on assisting the team with market data collection, organization, preliminary analysis, financial asset pricing, risk management, and portfolio optimization. This README provides an overview of the projects I've worked on, including the development and optimization of quantitative trading strategies and algorithms, data collection, cleaning, analysis, and the construction of an automated quantitative platform.
+This repository serves as a documentation and tracking hub for my personal project. Throughout this project, my primary focus has been on assisting the team with market data collection, organization, preliminary analysis, financial asset pricing, risk management, and portfolio optimization. This README provides an overview of the projects I've worked on, including the development and optimization of quantitative trading strategies and algorithms, data collection, cleaning, analysis, and the construction of an automated quantitative platform.
 
 ## Objectives
 
